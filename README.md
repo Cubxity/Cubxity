@@ -4,7 +4,7 @@ I'm a passionate **Full-stack Developer** with 5+ years of experience. I've been
 now. Recently, I've been working behind the scenes for [TommyInnit](https://www.youtube.com/tommyinnit) to create
 amazing content. Below are some projects I've developed or/and managed. Take a look!
 
-#### 📁 Projects
+#### 📁 Recent Projects
 
 - [Minecraft 1 VS 1,000 Players!](https://www.youtube.com/watch?v=iKD14Sr2CUI) - DevOps and system administration
 - [100 Minecraft YouTubers VS Natural Disasters!](https://www.youtube.com/watch?v=h61SlPZfWfw) - Development, QA,
