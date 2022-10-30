@@ -6,7 +6,10 @@ amazing content. Below are some projects I've developed or/and managed. Take a l
 
 #### 📁 Recent Projects
 
-- [$150,000 Funniest Survival Games...](https://www.youtube.com/watch?v=s9FqnrJnmDQ) - Devops, QA, and system administration
+- [I Made 100 Minecraft Players Simulate Civilization…](https://www.youtube.com/watch?v=6WXb4R4IF2A) - QA and system
+  administration
+- [$150,000 Funniest Survival Games...](https://www.youtube.com/watch?v=s9FqnrJnmDQ) - DevOps, QA, and system
+  administration
 - [Minecraft 1 VS 1,000 Players!](https://www.youtube.com/watch?v=iKD14Sr2CUI) - DevOps and system administration
 - [100 Minecraft YouTubers VS Natural Disasters!](https://www.youtube.com/watch?v=h61SlPZfWfw) - Development, QA,
   DevOps, system administration, and support
