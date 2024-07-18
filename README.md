@@ -1,14 +1,13 @@
 ### 👋 Hi there! I'm [Cubxity](https://cubxity.dev)
 
-I'm a **full-stack software developer** with 6+ years of experience.
+I'm a full-stack software developer.
 
-* 💻 Working with [TommyInnit](https://www.youtube.com/c/TommyInnit)
 * 🔍 Learn more about me [here](https://cubxity.dev)
 
 #### Want to know more?
 
 <details>
-<summary><b>📁 Recent Projects</b></summary>
+<summary><b>📁 Some of the projects I worked on</b></summary>
 <br/>
 
 - [I Simulated A Minecraft Zombie Apocalypse](https://www.youtube.com/watch?v=Ic5eaN15SUU) - QA and system
